@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1691903492 source:c:\users\asus\desktop\c programs\max increase seq\main.c
+	<stdio.h>
+	<stdlib.h>
+

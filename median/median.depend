@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1691897411 source:c:\users\asus\desktop\c programs\median\main.c
+	<stdio.h>
+	<stdlib.h>
+

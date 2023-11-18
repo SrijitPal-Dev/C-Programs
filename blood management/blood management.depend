@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1684002627 source:c:\users\asus\desktop\c programs\blood management\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
